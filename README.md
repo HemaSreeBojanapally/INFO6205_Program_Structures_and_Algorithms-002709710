@@ -1,1 +1,3 @@
-# INFO6205_Program_Structures_and_Algorithms-002709710
+# Name: Hema Sree Bojanapally
+# NUID: 002709710
+# email: bojanapally.h@northeastern.edu
